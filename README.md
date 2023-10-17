@@ -35,4 +35,4 @@
 ![alt text](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
 ![alt text](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cli3338198&hide=css,scss,html&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cli3338198&hide=css,scss,html,plpgsql&theme=tokyonight)
