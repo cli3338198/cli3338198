@@ -6,7 +6,6 @@
 
 ### About Me: 
 - 🧬 I'm a scientist turned software engineer.
-- 👩‍💻 I'm a graduate from a full stack web development bootcamp, Rithm School.
 - 👀 I'm interested in creating innovative, robust, and scalable tech solutions.
 - 💻 I'm currently practicing my data structures and algorithms.
 - 🚀 In my spare time, I like reading science fiction, hiking, and dreaming up new app ideas!
