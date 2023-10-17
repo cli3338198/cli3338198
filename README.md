@@ -21,7 +21,6 @@
 ![alt text](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![alt text](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge)
 ![alt text](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
-![alt text](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=green&style=for-the-badge)
 ![alt text](https://img.shields.io/badge/-Jasmine-8A4182?logo=jasmine&logoColor=white&style=for-the-badge)
 ![alt text](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=for-the-badge)
 ![alt text](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
