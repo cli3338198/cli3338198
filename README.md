@@ -38,32 +38,39 @@
 
 ### Sample Projects: 
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
-  <div style="width: 100%;">
-    <a href="https://github.com/cli3338198/q-demo">
-      <img alt="" src="https://raw.githubusercontent.com/cli3338198/q-demo/master/front/public/01.gif" style="width: 60%;">
-    </a>
-  </div>
-  <div style="width: 100%;">
-    <a href="https://github.com/cli3338198/warbler">
-      <img alt="" src="https://raw.githubusercontent.com/cli3338198/warbler/main/screen1.png" style="width: 60%;">
-    </a>
-  </div>
-  <div style="width: 100%;">
-    <a href="https://github.com/cli3338198/jobly">
-      <img alt="" src="https://raw.githubusercontent.com/cli3338198/jobly/main/screen1.png" style="width: 60%;">
-    </a>
-  </div>
-  <div style="width: 100%;">
-    <a href="https://github.com/cli3338198/aim">
-      <img alt="" src="https://raw.githubusercontent.com/cli3338198/aim/master/client/public/screenshot1.jpg" style="width: 60%;">
-    </a>
-  </div>
-  <div style="width: 100%;">
-    <a href="https://github.com/cli3338198/out">
-      <img alt="" src="https://raw.githubusercontent.com/cli3338198/out/master/client/public/screenshot4.jpg" style="width: 60%;">
-    </a>
-  </div>
-</div>
-
-
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td style="border: none;">
+      <a href="https://github.com/cli3338198/q-demo">
+        <img alt="" src="https://raw.githubusercontent.com/cli3338198/q-demo/master/front/public/01.gif" style="max-width: 100%;">
+      </a>
+    </td>
+    <td style="border: none;">
+      <a href="https://github.com/cli3338198/warbler">
+        <img alt="" src="https://raw.githubusercontent.com/cli3338198/warbler/main/screen1.png" style="max-width: 100%;">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none;">
+      <a href="https://github.com/cli3338198/jobly">
+        <img alt="" src="https://raw.githubusercontent.com/cli3338198/jobly/main/screen1.png" style="max-width: 100%;">
+      </a>
+    </td>
+    <td style="border: none;">
+      <a href="https://github.com/cli3338198/aim">
+        <img alt="" src="https://raw.githubusercontent.com/cli3338198/aim/master/client/public/screenshot1.jpg" style="max-width: 100%;">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none;">
+      <a href="https://github.com/cli3338198/out">
+        <img alt="" src="https://raw.githubusercontent.com/cli3338198/out/master/client/public/screenshot4.jpg" style="max-width: 100%;">
+      </a>
+    </td>
+    <td style="border: none;">
+      <!-- Add more images as needed -->
+    </td>
+  </tr>
+</table>
