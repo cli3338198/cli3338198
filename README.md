@@ -8,7 +8,7 @@
 - 🧬 I have a background in Biology.
 - 👀 I'm interested in creating innovative, robust, and scalable tech solutions.
 - 💻 I'm currently practicing my data structures and algorithms.
-- 🚀 In my spare time, I like reading science fiction, hiking, and dreaming up new app ideas!
+- 🚀 In my spare time, I like reading science fiction, hiking, and coming up with new app ideas!
 - 💞️ I’d love to hear about how we can collaborate on any coding projects/opportunities!
  
 
