@@ -2,15 +2,12 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris-lim-224637243/)
 [![linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cli3338198@gmail.com)
 
- 
-
 ### About Me: 
 - 🧬 I have a background in Biology.
 - 👀 I'm interested in creating innovative, robust, and scalable tech solutions.
 - 💻 I'm currently learning mobile development and practicing my data structures and algorithms.
 - 🚀 In my spare time, I like reading science fiction, hiking, and coming up with new app ideas!
 - 💞️ I’d love to hear about how we can collaborate on any coding projects/opportunities!
- 
 
 * * * 
 
@@ -50,32 +47,29 @@
         <img alt="" src="https://raw.githubusercontent.com/cli3338198/q-demo/master/front/public/01.gif" style="max-width: 100%;">
       </a>
     </td>
+  </tr>
+  <tr>
     <td style="border: none;">
       <a href="https://github.com/cli3338198/warbler">
         <img alt="" src="https://raw.githubusercontent.com/cli3338198/warbler/main/screen1.png" style="max-width: 100%;">
       </a>
     </td>
-  </tr>
-  <tr>
     <td style="border: none;">
       <a href="https://github.com/cli3338198/jobly">
         <img alt="" src="https://raw.githubusercontent.com/cli3338198/jobly/main/screen1.png" style="max-width: 100%;">
       </a>
     </td>
+  </tr>
+  <tr>
     <td style="border: none;">
       <a href="https://github.com/cli3338198/aim">
         <img alt="" src="https://raw.githubusercontent.com/cli3338198/aim/master/client/public/screenshot1.jpg" style="max-width: 100%;">
       </a>
     </td>
-  </tr>
-  <tr>
     <td style="border: none;">
       <a href="https://github.com/cli3338198/out">
         <img alt="" src="https://raw.githubusercontent.com/cli3338198/out/master/client/public/screenshot4.jpg" style="max-width: 100%;">
       </a>
-    </td>
-    <td style="border: none;">
-      <!-- Add more images as needed -->
     </td>
   </tr>
 </table>
